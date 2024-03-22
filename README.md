@@ -1,2 +1,4 @@
 # FitzHugh-Nagumo-Control
-Deterministic Control FitzHugh-Nagumo Network
+Cluster computation - deterministic optimal controls for large FItzHugh-Nagumo networks
+
+
